@@ -1,4 +1,7 @@
-# Google Earth Engine - environmental projects <span style="font-family:Papyrus; font-size:0.6em;">Implemented with Javascript</span>
+# Google Earth Engine - environmental projects
+Environmental mini projects implemented with Google Earth Engine platform, Javascript and machine learning algorithms.
+
+<br>
 
 ## [Effect of the lockdown imposed due to COVID-19 on the average concentration of nitrogen dioxide - NO<sub>2</sub> in the troposphere of Italy](italy-no2-covid.js)
 A comparison of the average concentration of NO<sub>2</sub> between the periods 14-25 March 2020 and March 2019 is performed 
@@ -8,16 +11,16 @@ The difference of nitrogen dioxide concentration in the troposphere between the 
 
 <br>
 
-![NO2-concentration-2019](.\img\NitrogenDioxideConcentration-Italy2019.png)*Nitrogen dioxide concentration in Italy for 2019*
+![NO2-concentration-2019](img/NitrogenDioxideConcentration-Italy2019.png)*Nitrogen dioxide concentration in Italy for 2019*
 
 <br>
 
-![NO2-concentration-2020](.\img\NitrogenDioxideConcentration-Italy2020.png)
+![NO2-concentration-2020](img/NitrogenDioxideConcentration-Italy2020.png)
 *Nitrogen dioxide concentration in Italy for 2020*
 
 <br>
 
-![NO2-concentration-2019](.\img\NitrogenDioxideConcentration-ItalyDifference2019-2020.png)
+![NO2-concentration-2019](img/NitrogenDioxideConcentration-ItalyDifference2019-2020.png)
 *Nitrogen dioxide concentration difference in Italy between 2019-2020*
 
 <br>
@@ -30,12 +33,12 @@ It is noticed that in Malta there is very little vegetation in the (comparativel
 
 <br>
 
-![NDVI-malta-2020](.\img\MaltaNDVI2020.png)
+![NDVI-malta-2020](img/MaltaNDVI2020.png)
 *NDVI index projection in Malta for 2020*
 
 <br>
 
-![EVI-malta-2020](.\img\MaltaEVI2020.png)
+![EVI-malta-2020](img/MaltaEVI2020.png)
 *EVI index projection in Malta for 2020*
 
 <br>
@@ -48,7 +51,7 @@ It is clear that during the period of summer and especially August 2007 the NDVI
 
 <br>
 
-![NDVI-ilia-timeseries](.\img\ee-chart.png)
+![NDVI-ilia-timeseries](img/ee-chart.png)
 *NDVI timeseries in Ilia region of Greece between 2005-2010*
 
 <br>
@@ -77,10 +80,10 @@ In the second process we can draw more detailed conclusions about the characteri
 
 <br>
 
-![Land-coverage-classification-Athens](.\img\Attica_LandCover.png)
+![Land-coverage-classification-Athens](img/Attica_LandCover.png)
 *Land coverage classification of Athens*
 
 <br>
 
-![Land-coverage-extended-classification-Athens](.\img\Attica_extended_LandCover.png)
+![Land-coverage-extended-classification-Athens](img/Attica_extended_LandCover.png)
 *Land coverage "extended" classification of Athens*
