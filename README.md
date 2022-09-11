@@ -64,7 +64,7 @@ It is clear that during the period of summer and especially August 2007 the NDVI
 
 <br>
 
-Google Earth Engine execution [here](https://code.earthengine.google.com/53dfeca3c4ce8e32ddc65c5c02c066f7)
+Google Earth Engine execution [here](https://code.earthengine.google.com/7f112af11035f043af75c950a5114b03)
 
 <br>
 <br>
