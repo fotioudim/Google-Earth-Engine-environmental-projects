@@ -36,3 +36,5 @@ var chart = ui.Chart.image.series({
     })
 
 print(chart);
+
+Map.centerObject(point, 11);

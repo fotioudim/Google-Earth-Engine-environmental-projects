@@ -24,6 +24,10 @@ The difference of nitrogen dioxide concentration in the troposphere between the 
 *Nitrogen dioxide concentration difference in Italy between 2019-2020*
 
 <br>
+
+Google Earth Engine execution [here](https://code.earthengine.google.com/98921f18cbfbb3d129abbdd2cd5cd9de)
+
+<br>
 <br>
 
 ## [NDVI and EVI vegetation indices comparison in Malta for 2020](malta-ndvi-evi-2020.js)
@@ -42,6 +46,10 @@ It is noticed that in Malta there is very little vegetation in the (comparativel
 *EVI index projection in Malta for 2020*
 
 <br>
+
+Google Earth Engine execution [here](https://code.earthengine.google.com/86258a0410bc00b5bb3e1d961aa3822b)
+
+<br>
 <br>
 
 ## [Time series of NDVI index for the fire-stricken greek region of Ilia](ndvi-forest-fire-timeline.js)
@@ -53,6 +61,10 @@ It is clear that during the period of summer and especially August 2007 the NDVI
 
 ![NDVI-ilia-timeseries](img/ee-chart.png)
 *NDVI timeseries in Ilia region of Greece between 2005-2010*
+
+<br>
+
+Google Earth Engine execution [here](https://code.earthengine.google.com/53dfeca3c4ce8e32ddc65c5c02c066f7)
 
 <br>
 <br>
@@ -87,3 +99,7 @@ In the second process we can draw more detailed conclusions about the characteri
 
 ![Land-coverage-extended-classification-Athens](img/Attica_extended_LandCover.png)
 *Land coverage "extended" classification of Athens*
+
+<br>
+
+Google Earth Engine execution [here](https://code.earthengine.google.com/509e230a38cab60a639782482c0f036f)
